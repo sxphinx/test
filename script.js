@@ -1,4 +1,4 @@
-var pane = $('#pane'),
+/*var pane = $('#pane'),
     box = $('#box'),
     w = pane.width() - box.width(),
     d = {},
@@ -18,3 +18,4 @@ setInterval(function() {
         top: function(i,v) { return newv(v, 38, 40); }
     });
 }, 20);
+*/
