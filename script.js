@@ -17,4 +17,4 @@ setInterval(function() {
         left: function(i,v) { return newv(v, 37, 39); },
         top: function(i,v) { return newv(v, 38, 40); }
     });
-}, 20);
+}, /*20*/);
